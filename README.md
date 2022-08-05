@@ -2,4 +2,4 @@
 Simon Game Project
 
 
-Play the Simon Game play by following the link - https://hsumyatmon1.github.io/Simon-Game/
+Play the Simon Game by following the link - https://hsumyatmon1.github.io/Simon-Game/
