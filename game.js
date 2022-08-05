@@ -76,7 +76,7 @@ function startOver() {
         $("body").removeClass("game-over"), 200;
     });
     $("h1").text("Game Over :(");
-    $("footer").html("Refresh (F5) to Start Over!");
+    $("h3").html("Refresh (F5) to Start Over!");
 
     level = 0;
     randomChosenColour = [];
